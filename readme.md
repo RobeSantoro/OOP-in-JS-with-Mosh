@@ -53,7 +53,7 @@ Uncle Bob Martin
 
 ![[Pasted image 20220208125801.png]]
 
-## 3 Ways to create an object
+## 3+1 Ways to create an object
 
 ## Object Litteral Syntax
 ```js
