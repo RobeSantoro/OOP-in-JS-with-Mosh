@@ -51,8 +51,6 @@ Uncle Bob Martin
 ## Polymorphism
 - An object derived from a class can change its form  (properties, methods) dynamically
 
-![[Pasted image 20220208125801.png]]
-
 ## 3+1 Ways to create an object
 
 ## Object Litteral Syntax
